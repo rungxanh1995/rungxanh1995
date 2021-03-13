@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available here on my [GitHub profile](github.com/rungxanh2901)
 - 📫 Please feel free to reach me at [**my email**](mailto:ptlam.vn95@gmail.com), [**Twitter**](https://twitter.com/rungxanh2901), and [**LinkedIn**](https://www.linkedin.com/in/ptlam95/)
 - ⚡ Fun facts: I love all these things
-   - coding (especially Swift) 👨🏻‍💻
+   - coding (especially iOS development with Swift) 👨🏻‍💻
    - watching  WWDC
    - learning languages (both human and programming)
    - 🐶
