@@ -1,10 +1,8 @@
-### Hi there 👋
-
 <!--
 **rungxanh2901/rungxanh2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
  
-<h1 align="center">Ahoy 👋, I'm Joe Pham</h1>
+<h1 align="center">Hi there 👋 I'm Joe Pham</h1>
 <h3 align="center">An aspiring and passionate iOS developer living in Toronto, 🇨🇦</h3>
 
 
@@ -31,7 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rungxanh2901&show_icons=true&locale=en&layout=compact" alt="rungxanh2901" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rungxanh2901&show_icons=true&locale=en" alt="rungxanh2901" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rungxanh2901&theme=default" alt="rungxanh2901" /></p>
-
 
