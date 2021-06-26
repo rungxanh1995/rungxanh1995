@@ -8,8 +8,8 @@
 
 - 👔 I am a former Hospitality professional 👨🏻‍💼 that changed my career to be a developer since 2020
 - 🌱 I’m currently learning **Computer Programming and Analysis** at George Brown College, but self-studying **Swift** and **SwiftUI** outside of school curriculum
-- 👨‍💻 All of my projects are available here on my [GitHub profile](github.com/rungxanh2901)
-- 📫 Please feel free to reach me at [**my email**](mailto:ptlam.vn95@gmail.com), [**Twitter**](https://twitter.com/rungxanh2901), and [**LinkedIn**](https://www.linkedin.com/in/ptlam95/)
+- 👨‍💻 All of my projects are available here on my [GitHub profile](github.com/rungxanh1995)
+- 📫 Please feel free to reach me at [**my email**](mailto:ptlam.vn95@gmail.com), [**Twitter**](https://twitter.com/rungxanh1995), and [**LinkedIn**](https://www.linkedin.com/in/ptlam95/)
 - ⚡ Fun facts: I love all these things
    - coding (especially iOS development with Swift) 👨🏻‍💻
    - watching  WWDC
