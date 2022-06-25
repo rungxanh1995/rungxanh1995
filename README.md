@@ -3,11 +3,11 @@
  -->
  
 <h1 align="center">Hi there 👋 I'm Joe Pham</h1>
-<h3 align="center">An aspiring and passionate iOS developer living in Toronto, 🇨🇦</h3>
+<h3 align="center">An iOS/web developer based in Toronto, 🇨🇦</h3>
 
 
 - 👔 I am a former Hospitality professional 👨🏻‍💼 that changed my career to be a developer since 2020
-- 🌱 I’m currently learning **Computer Programming and Analysis** at George Brown College, but self-studying **Swift** and **SwiftUI** outside of school curriculum
+- 🌱 I’m currently learning **Computer Programming and Analysis** at George Brown College, and propelling myself forward learning new technologies outside of school curriculum everyday
 - 👨‍💻 All of my projects are available here on my [GitHub profile](github.com/rungxanh1995)
 - 📫 Please feel free to reach me at [**my email**](mailto:ptlam.vn95@gmail.com), [**Twitter**](https://twitter.com/rungxanh1995), and [**LinkedIn**](https://www.linkedin.com/in/ptlam95/)
 - ⚡ Fun facts: I love all these things
